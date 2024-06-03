@@ -1,0 +1,17 @@
+#home{
+    background-color: #ffc107;
+    color: aliceblue;
+}
+
+.sombra-texto{
+    text-shadow: 1px 2px 5px black;
+}
+
+.caixa{
+    padding: 60px 0;/*UP RIGHT DOWN LEFT*/
+    border-bottom: 1px solid #c2bfbf;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
