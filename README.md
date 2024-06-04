@@ -2,6 +2,8 @@
  Projetos que fui Criando e estou trabalhando ao longo do Aprendizado em Diversas Linguagens de Programação e de Marcação.
  Ainda sendo Adicionadas no *Repositório*.
 
+ ***
+
 Linguagem de Markdown
 
 Negrito = **Negrito asteriscos** feito com sucesso ou __Negrito underline__ feito com sucesso.
