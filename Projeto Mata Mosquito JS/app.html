@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8"> <!--Browser identifica caracteres especiais-->
+        <script src="jogo.js"></script> <!--defer faz com que o script só seja executado depois que for carregado o Body-->
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <body onresize="ajustaTamanhoPalcoJogo()">
+
+        <div class="painel">
+            <div class="pontosdevida">
+                <img id="vida3" src="imagens/coracao_cheio.png" alt="">
+                <img id="vida2" src="imagens/coracao_cheio.png" alt="">
+                <img id="vida1" src="imagens/coracao_cheio.png" alt="">
+            </div>
+
+            <div class="cronometro">
+                Tempo Restante: <span id="cronometro_span"></span>
+            </div>
+        </div>
+
+
+        <script>
+            
+            document.getElementById("cronometro_span").innerHTML = tempo
+
+            var criaMosquito = setInterval(function(){
+                posicaoRandomica()
+            }, criaMosquitoTempo)
+        </script>
+        
+    </body>
+</html>
