@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIGjcnMi67c2vbTLtjy4Ywr5O9IXyNiob4MjndeqQS4/8WuX69rNHUm5NTj4uExBqW/B36rTPoJAdMi1vG7QtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Gabriel'News\\3-Desenvolvimento Web Udemy\\Projects\\Pong Projeto C#\\PongGame\\PongGame\\PongGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\unofficial.opentk\\3.0.20\\unofficial.opentk.3.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

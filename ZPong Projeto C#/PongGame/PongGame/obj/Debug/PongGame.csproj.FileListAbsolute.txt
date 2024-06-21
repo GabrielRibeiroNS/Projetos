@@ -1,0 +1,22 @@
+C:\Users\gabri\source\repos\PongGame\PongGame\bin\Debug\PongGame.exe.config
+C:\Users\gabri\source\repos\PongGame\PongGame\bin\Debug\PongGame.exe
+C:\Users\gabri\source\repos\PongGame\PongGame\bin\Debug\PongGame.pdb
+C:\Users\gabri\source\repos\PongGame\PongGame\bin\Debug\OpenTK.dll
+C:\Users\gabri\source\repos\PongGame\PongGame\bin\Debug\OpenTK.pdb
+C:\Users\gabri\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\PongGame\PongGame\obj\Debug\PongGame.csproj.CopyComplete
+C:\Users\gabri\source\repos\PongGame\PongGame\obj\Debug\PongGame.exe
+C:\Users\gabri\source\repos\PongGame\PongGame\obj\Debug\PongGame.pdb
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\bin\Debug\PongGame.exe.config
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\bin\Debug\PongGame.exe
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\bin\Debug\PongGame.pdb
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\bin\Debug\OpenTK.dll
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\bin\Debug\OpenTK.pdb
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\obj\Debug\PongGame.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\obj\Debug\PongGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\obj\Debug\PongGame.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\obj\Debug\PongGame.exe
+C:\Users\Gabriel\Desktop\Gabriel'News\3-Desenvolvimento Web Udemy\Projects\Pong Projeto C#\PongGame\PongGame\obj\Debug\PongGame.pdb
