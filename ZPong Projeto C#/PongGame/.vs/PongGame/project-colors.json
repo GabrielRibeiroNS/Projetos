@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a956163-bd63-49e2-869b-03cbd080567d": {
+      "ProjectGuid": "5a956163-bd63-49e2-869b-03cbd080567d",
+      "DisplayName": "PongGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
